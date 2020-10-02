@@ -42,7 +42,7 @@ const Close = styled.button`
     width: 2px;
     transition: width 250ms ease-in-out, background-color 250ms ease;
     transform:rotate(45deg);
-    background-color: #e94560;
+    background-color: white;
     border-radius: 1px;
   }
   
@@ -56,7 +56,7 @@ const Close = styled.button`
     right: 0;
     height: 50px;
     width: 2px;
-    background-color: #e94560;
+    background-color: white;
     transition: width 250ms ease-in-out, background-color 250ms ease;
     transform:rotate(-45deg);
     border-radius: 1px;
@@ -105,9 +105,9 @@ const Next = styled.button`
     bottom: 20%;
     width: 250px;
     height: 40px;
-    border-color: #e94560;
+    border-color: white;
     background-color: black;
-    color: #e94560;
+    color: white;
     text-transform: uppercase;
     cursor: pointer;
     
